@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto and blockchain
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on new project 
-- 📫 How to reach me, you can find me on twitter: @karimzidane211
+- 📫 How to reach me, you can find me on twitter: @karimzidane211 and discord: karimzidane#8082
 
 <!---
 karimzidane/karimzidane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
